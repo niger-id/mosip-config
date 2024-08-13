@@ -9,6 +9,15 @@
 		"name": {
 			"value": "firstName,lastName"
 		},
+		"fullName": {
+			"value": "firstName,lastName"
+		},
+		"firstName": {
+			"value": "firstName"
+		},
+		"lastName": {
+			"value": "lastName"
+		},
 		"gender": {
 			"value": "gender"
 		},
