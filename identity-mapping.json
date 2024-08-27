@@ -60,7 +60,7 @@
 		"individualBiometrics": {
 			"value": "individualBiometrics"
 		},
-		"parentOrGuardianBiometrics": {
+		"introducerBiometrics": {
 			"value": "parentOrGuardianBiometrics"
 		},
 		"individualAuthBiometrics": {
