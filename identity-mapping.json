@@ -123,6 +123,9 @@
 		"phone_number": {
 			"value": "phone"
 		},
+		"introducerUIN ": {
+			"value": "introducerUIN"
+		},
 		"address": {
 			"value": "addressLine1,addressLine2,addressLine3,region,departement,commune,localite,postalCode"
 		},
