@@ -3,6 +3,15 @@
         "name": [
             "firstName","lastName"
         ],
+        "fullName": [
+            "firstName","lastName"
+        ],
+        "firstName": [
+            "firstName"
+        ],
+        "lastName": [
+            "lastName"
+        ],
         "dob": [
             "dateOfBirth"
         ],
