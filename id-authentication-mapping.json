@@ -1,9 +1,6 @@
 {
     "ida-mapping": {
         "name": [
-            "fullName"
-        ],
-        "name": [
             "firstName","lastName"
         ],
         "dob": [
